@@ -1,16 +1,16 @@
-#list of links subjected to deamplification algorithm on X
-#
-# How to find a new ones: add to bookmark and like the post. Revisit next day and check if like is removed.
-# How to respond: add to bookmark and like it every day, report every link (reposts aren't removed)
+# List of links subjected to deamplification algorithm on X
 
-# Possible reason - noted before 'i threw the script away', amazing example on how public persons could present the ideas with plausiable deniablity
-https://twitter.com/nbcsnl/status/1629708620752453634                                                                            
-                                                                            
-# Possible reason - DMT research                                                                            
-https://twitter.com/alieninsect/status/1647807982837833728                                                                            
+## How to find new ones: Add to bookmarks and like the post. Revisit the next day and check if the like is removed.
+## How to respond: Add to bookmarks and like it every day, repost every link (reposts aren't removed).
 
-# Possible reason - 'it is for the greater good'
-https://twitter.com/conmomma/status/1451253296132329499
-                                                                            
-# Possible reason - fed honeypot in a form of Wipeout event?
-https://twitter.com/gvnzng/status/1648778912954998784                                                                            
+- **Possible reason:** Noted before 'I threw the script away,' an amazing example of how public persons could present ideas with plausible deniability.
+  [Link](https://twitter.com/nbcsnl/status/1629708620752453634)
+
+- **Possible reason:** DMT research. Ask the question: Why is it seen as so dangerous?
+  [Link](https://twitter.com/alieninsect/status/1647807982837833728)
+
+- **Possible reason:** 'It is for the greater good'
+  [Link](https://twitter.com/conmomma/status/1451253296132329499)
+
+- **Possible reason:** Fed honeypot in the form of a Wipeout event?
+  [Link](https://twitter.com/gvnzng/status/1648778912954998784)

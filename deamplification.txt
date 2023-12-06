@@ -1,7 +1,8 @@
 # List of links subjected to deamplification algorithm on X
 
 ## How to find new ones: Add to bookmarks and like the post. Revisit the next day and check if the like is removed.
-## How to respond: Add to bookmarks and like it every day, repost every link (reposts aren't removed).
+## More details: likes on all links removed at the same time as some kind of scheduled script, which runs several times per day (trying to pin point exact times). Bookmarks and reposts are not removed.
+## How to respond: You have to decide for yourself. I have all of them added to separate bookmark group and I put back the like as soon as I notice.
 ## Originally I had possible reasons added to each link, but as it is subjective - reasons removed, make your own conclusions on why.
 
 https://twitter.com/nbcsnl/status/1629708620752453634

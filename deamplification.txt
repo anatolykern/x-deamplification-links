@@ -1,13 +1,17 @@
 # List of links subjected to deamplification algorithm on X
 
 ## How to find new ones: Add to bookmarks and like the post. Revisit the next day and check if the like is removed.
-## More details: likes on all links removed at the same time as some kind of scheduled script, which runs several times per day (trying to pin point exact times). Bookmarks and reposts are not removed.
+## More details: likes on all links removed at the same time as some kind of scheduled script, which runs several times per day.
+## (trying to pin point exact times). Bookmarks and reposts are not removed. View counter removed for tier 1 links
 ## How to respond: You have to decide for yourself. I have all of them added to separate bookmark group and I put back the like as soon as I notice.
 ## Originally I had possible reasons added to each link, but as it is subjective - reasons removed, make your own conclusions on why.
 
+## Tier 1 links, no views counter, likes removed
+https://twitter.com/conmomma/status/1451253296132329499
+https://twitter.com/jk_rowling/status/1207646162813100033
+
+## Tier 2 links, likes removed
 https://twitter.com/nbcsnl/status/1629708620752453634
 https://twitter.com/alieninsect/status/1647807982837833728
-https://twitter.com/conmomma/status/1451253296132329499
 https://twitter.com/gvnzng/status/1648778912954998784
 https://twitter.com/jk_rowling/status/1618212057496817670
-https://twitter.com/jk_rowling/status/1207646162813100033
